@@ -32,7 +32,7 @@ const App = () => {
     <Router>
       <div>
         <h1>Welcome to my app Ankit Parashar</h1>
-        <h1 className="text-4xl text-red-500 font-bold">Tailwind Test</h1>
+        <h1 className="text-4xl text-red-500 font-bold">I write parking status and names manually in database because there are no Free Parking Api in India . Thank you</h1>
       </div>
 
       <Navbar />
